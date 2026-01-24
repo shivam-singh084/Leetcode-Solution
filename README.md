@@ -29,6 +29,7 @@
 | [0118-pascals-triangle](https://github.com/shivam-singh084/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-singh084/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/shivam-singh084/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/shivam-singh084/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shivam-singh084/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/shivam-singh084/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shivam-singh084/leetcode/tree/master/0198-house-robber) |
@@ -314,6 +315,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/shivam-singh084/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/shivam-singh084/leetcode/tree/master/0645-set-mismatch) |
 ## Bucket Sort
