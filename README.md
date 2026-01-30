@@ -69,6 +69,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam-singh084/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivam-singh084/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivam-singh084/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1539-kth-missing-positive-number](https://github.com/shivam-singh084/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1580-shuffle-the-array](https://github.com/shivam-singh084/leetcode/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/shivam-singh084/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam-singh084/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -392,6 +393,7 @@
 | [0410-split-array-largest-sum](https://github.com/shivam-singh084/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivam-singh084/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1539-kth-missing-positive-number](https://github.com/shivam-singh084/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Indexed Tree
 |  |
