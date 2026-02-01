@@ -81,6 +81,7 @@
 | [2058-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/shivam-singh084/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2643-row-with-maximum-ones](https://github.com/shivam-singh084/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -238,6 +239,7 @@
 | [0661-image-smoother](https://github.com/shivam-singh084/leetcode/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shivam-singh084/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2643-row-with-maximum-ones](https://github.com/shivam-singh084/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
