@@ -173,6 +173,7 @@
 | [0344-reverse-string](https://github.com/shivam-singh084/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -335,6 +336,7 @@
 | [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shivam-singh084/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Memoization
@@ -433,6 +435,7 @@
 | [0135-candy](https://github.com/shivam-singh084/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/shivam-singh084/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Quickselect
 |  |
