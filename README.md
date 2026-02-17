@@ -341,6 +341,7 @@
 | [0234-palindrome-linked-list](https://github.com/shivam-singh084/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/shivam-singh084/leetcode/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -407,6 +408,7 @@
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/shivam-singh084/leetcode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shivam-singh084/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Memoization
