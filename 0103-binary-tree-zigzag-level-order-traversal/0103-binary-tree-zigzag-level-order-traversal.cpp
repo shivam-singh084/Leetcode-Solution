@@ -22,18 +22,18 @@ public:
 
         while(!q.empty()){
             int size = q.size();
-            vector<int> level(size);
+            vector<int> level;
 
             for(int i = 0; i < size; i++){
                 TreeNode* curr = q.front();
                 q.pop();
-
-                int ind = leftToright ? i : (size - 1-i);
-                level[ind] = curr -> val;
+                level.push_back(curr -> val);
 
                 if(curr -> left != NULL) q.push(curr -> left);
                 if(curr -> right != NULL) q.push(curr -> right);
             }
+            if(leftToright == false) reverse(level.begin(), level.end());
+
             ans.push_back(level);
             if(leftToright == true) leftToright = false;
             else leftToright = true;
