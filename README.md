@@ -484,6 +484,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/shivam-singh084/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -501,6 +502,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shivam-singh084/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -521,6 +523,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/shivam-singh084/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -606,4 +609,5 @@
 | [0112-path-sum](https://github.com/shivam-singh084/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivam-singh084/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0226-invert-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
