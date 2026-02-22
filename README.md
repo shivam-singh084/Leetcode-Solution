@@ -190,6 +190,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shivam-singh084/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivam-singh084/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/shivam-singh084/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/shivam-singh084/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shivam-singh084/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -437,6 +438,7 @@
 | [0052-n-queens-ii](https://github.com/shivam-singh084/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivam-singh084/leetcode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/shivam-singh084/leetcode/tree/master/0257-binary-tree-paths) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivam-singh084/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -483,6 +485,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shivam-singh084/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam-singh084/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shivam-singh084/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
@@ -501,6 +504,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/shivam-singh084/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivam-singh084/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shivam-singh084/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -522,6 +526,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shivam-singh084/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam-singh084/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shivam-singh084/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search
