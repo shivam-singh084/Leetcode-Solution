@@ -25,6 +25,7 @@
 | [0053-maximum-subarray](https://github.com/shivam-singh084/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shivam-singh084/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/shivam-singh084/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shivam-singh084/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0074-search-a-2d-matrix) |
