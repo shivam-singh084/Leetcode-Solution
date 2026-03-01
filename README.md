@@ -500,6 +500,7 @@
 | [0226-invert-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/shivam-singh084/leetcode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -553,6 +554,7 @@
 | [0226-invert-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/shivam-singh084/leetcode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -619,6 +621,7 @@
 | [0096-unique-binary-search-trees](https://github.com/shivam-singh084/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shivam-singh084/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Counting Sort
 |  |
