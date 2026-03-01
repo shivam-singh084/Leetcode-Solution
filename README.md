@@ -208,6 +208,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shivam-singh084/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shivam-singh084/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivam-singh084/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -604,6 +605,7 @@
 | [0135-candy](https://github.com/shivam-singh084/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/shivam-singh084/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivam-singh084/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
