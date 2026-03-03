@@ -211,6 +211,7 @@
 | [0796-rotate-string](https://github.com/shivam-singh084/leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivam-singh084/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shivam-singh084/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -321,6 +322,7 @@
 | [0566-reshape-the-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0898-transpose-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivam-singh084/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/2058-concatenation-of-array) |
 ## Linked List
@@ -362,6 +364,7 @@
 | [0234-palindrome-linked-list](https://github.com/shivam-singh084/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/shivam-singh084/leetcode/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
