@@ -1,11 +1,12 @@
 class Solution {
 public:
     string trimTrailingVowels(string s) {
-        while(!s.empty()){
-            if(s.back() == 'a' || s.back() == 'e' || s.back() == 'i' || s.back() == 'o' || s.back() == 'u'){
+        int n = s.length();
+        for(int i = n-1; i >= 0; i--){
+            if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u'){
                 s.pop_back();
             }else{
-                break;
+                return s;
             }
         }
         return s;
