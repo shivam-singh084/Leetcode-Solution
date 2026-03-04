@@ -85,6 +85,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/shivam-singh084/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1580-shuffle-the-array](https://github.com/shivam-singh084/leetcode/tree/master/1580-shuffle-the-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shivam-singh084/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam-singh084/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -311,6 +312,7 @@
 | [0661-image-smoother](https://github.com/shivam-singh084/leetcode/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0898-transpose-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shivam-singh084/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/shivam-singh084/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/shivam-singh084/leetcode/tree/master/2643-row-with-maximum-ones) |
