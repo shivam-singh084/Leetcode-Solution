@@ -4,26 +4,24 @@ public:
         int n = mat.size();
         int m = mat[0].size();
         int ones = 0;
+
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
                 if(mat[i][j] == 1){
-                    bool special = true;
 
+                    int row = 0;
+                    int col = 0;
                     for(int k = 0; k < n; k++){
-                        if(mat[k][j] == 1 && k != i){
-                            special = false;
-                        }
+                        row += mat[k][j];
                     }
-
                     for(int k = 0; k < m; k++){
-                        if(mat[i][k] == 1 && k != j){
-                            special = false;
-                        }
+                        col += mat[i][k];
                     }
-                    if(special == true){
+                    if(col == 1 && row == 1){
                         ones++;
                     }
                 }
+                
             }
         }
         return ones;
