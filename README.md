@@ -91,6 +91,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/shivam-singh084/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2058-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/shivam-singh084/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -181,6 +182,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam-singh084/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivam-singh084/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shivam-singh084/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-singh084/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -223,6 +225,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivam-singh084/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
@@ -471,6 +474,7 @@
 | [0079-word-search](https://github.com/shivam-singh084/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/shivam-singh084/leetcode/tree/master/0257-binary-tree-paths) |
+| [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivam-singh084/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
