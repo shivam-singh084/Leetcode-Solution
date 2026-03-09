@@ -107,6 +107,7 @@
 | [0724-find-pivot-index](https://github.com/shivam-singh084/leetcode/tree/master/0724-find-pivot-index) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2102-find-the-middle-index-in-array](https://github.com/shivam-singh084/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shivam-singh084/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
