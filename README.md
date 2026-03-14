@@ -223,6 +223,7 @@
 | [0796-rotate-string](https://github.com/shivam-singh084/leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivam-singh084/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shivam-singh084/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -483,6 +484,7 @@
 | [0079-word-search](https://github.com/shivam-singh084/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/shivam-singh084/leetcode/tree/master/0257-binary-tree-paths) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivam-singh084/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
