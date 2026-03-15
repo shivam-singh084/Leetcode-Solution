@@ -411,6 +411,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/shivam-singh084/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
+| [1622-fancy-sequence](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1622-fancy-sequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -457,6 +458,7 @@
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
+| [1622-fancy-sequence](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1622-fancy-sequence) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/shivam-singh084/leetcode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -648,6 +650,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
+| [1622-fancy-sequence](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1622-fancy-sequence) |
 ## Greedy
 |  |
 | ------- |
