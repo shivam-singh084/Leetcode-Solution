@@ -148,6 +148,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/shivam-singh084/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shivam-singh084/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam-singh084/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivam-singh084/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
@@ -502,6 +503,7 @@
 | ------- |
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shivam-singh084/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam-singh084/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
