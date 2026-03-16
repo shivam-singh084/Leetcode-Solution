@@ -383,6 +383,7 @@
 | [0050-powx-n](https://github.com/shivam-singh084/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/shivam-singh084/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shivam-singh084/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shivam-singh084/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
@@ -459,6 +460,7 @@
 | [0070-climbing-stairs](https://github.com/shivam-singh084/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shivam-singh084/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/shivam-singh084/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
@@ -501,6 +503,7 @@
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shivam-singh084/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/shivam-singh084/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/shivam-singh084/leetcode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
