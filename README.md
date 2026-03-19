@@ -101,6 +101,7 @@
 | [2643-row-with-maximum-ones](https://github.com/shivam-singh084/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivam-singh084/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
@@ -115,6 +116,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -343,6 +345,7 @@
 | [2643-row-with-maximum-ones](https://github.com/shivam-singh084/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Simulation
 |  |
 | ------- |
