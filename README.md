@@ -464,6 +464,7 @@
 | [0007-reverse-integer](https://github.com/shivam-singh084/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/shivam-singh084/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivam-singh084/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shivam-singh084/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivam-singh084/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shivam-singh084/leetcode/tree/master/0066-plus-one) |
@@ -510,6 +511,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/shivam-singh084/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shivam-singh084/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
