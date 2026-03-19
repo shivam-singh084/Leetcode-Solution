@@ -47,6 +47,7 @@
 | [0169-majority-element](https://github.com/shivam-singh084/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivam-singh084/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shivam-singh084/leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam-singh084/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivam-singh084/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivam-singh084/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -472,6 +473,7 @@
 | [0070-climbing-stairs](https://github.com/shivam-singh084/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shivam-singh084/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/shivam-singh084/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
@@ -703,6 +705,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0204-count-primes) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shivam-singh084/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Trie
 |  |
@@ -758,4 +761,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
