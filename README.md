@@ -776,4 +776,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
