@@ -4,23 +4,26 @@ public:
         int m = mat.size();
         int n = mat[0].size();
 
-        k = k%n;
+        k = k % n;
+        if(k == 0) return true;
 
-
-        vector<vector<int>> original = mat;
         for(int i = 0; i < m; i++){
-            if(m % 2 == 0){
-                rotate(rbegin(mat[i]), rbegin(mat[i])+k, rend(mat[i]));
+            for(int j = 0; j < n; j++){
+                int currInd = j;
+                int futureInd;
+
+                if(i % 2 == 0){
+                    futureInd = (j + k) % n;
+                }
+                else{
+                    futureInd = (j - k + n) % n;
+                }
+
+                if(mat[i][currInd] != mat[i][futureInd]){
+                    return false;
+                }
             }
-            else{
-                rotate(begin(mat[i]), begin(mat[i])+k, end(mat[i]));
-            }
         }
-        if(original == mat){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return true;
     }
 };
