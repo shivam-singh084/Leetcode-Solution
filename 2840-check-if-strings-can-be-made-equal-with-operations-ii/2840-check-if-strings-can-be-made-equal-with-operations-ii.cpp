@@ -1,24 +1,24 @@
 class Solution {
 public:
     bool checkStrings(string s1, string s2) {
-        vector<int> even(26, 0);
-        vector<int> odd(26, 0);
+        unordered_map<int, int> even;
+        unordered_map<int, int> odd;
 
-        int n = s1.length();
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i < s1.length(); i++){
             if(i % 2 == 0){
-                even[s1[i] - 'a']++;
-                even[s2[i] - 'a']--;
+                even[s1[i]]++;
+                even[s2[i]]--;
             }
             else{
-                odd[s1[i] - 'a']++;
-                odd[s2[i] - 'a']--;
+                odd[s1[i]]++;
+                odd[s2[i]]--;
             }
+        }   
+        for(auto &it : even){
+            if(it.second != 0) return false;
         }
-        for(int i = 0; i < 26; i++){
-            if(even[i] != 0 || odd[i] != 0){
-                return false;
-            }
+        for(auto &it : odd){
+            if(it.second != 0) return false;
         }
         return true;
     }
