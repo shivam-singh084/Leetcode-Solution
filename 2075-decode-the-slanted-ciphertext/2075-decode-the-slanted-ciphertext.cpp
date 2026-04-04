@@ -1,18 +1,28 @@
 class Solution {
 public:
     string decodeCiphertext(string encodedText, int rows) {
-        int m = encodedText.length();
-        int n = m / rows;
+        int l = encodedText.length();
+        int cols = l / rows;
 
-        string original;
-        for(int j = 0; j < n; j++){
-            for(int i = j; i < m; i += (n+1)){
-                original += encodedText[i];
+        vector<vector<char>> mat(rows, vector<char>(cols));
+        int idx = 0;
+        for(int i = 0; i < rows; i++){
+            for(int j = 0; j < cols; j++){
+                mat[i][j] = encodedText[idx];
+                idx++;
             }
         }
-        while(!original.empty() && original.back() == ' '){
-            original.pop_back();
+
+        string ans = "";
+        for(int col = 0; col < cols; col++){
+            int i = 0, j = col;
+            while(i < rows && j < cols){
+                ans += mat[i][j];
+                i++;
+                j++;
+            }
         }
-        return original;
+        while(!ans.empty() && ans.back() == ' ') ans.pop_back();
+        return ans;
     }
 };
