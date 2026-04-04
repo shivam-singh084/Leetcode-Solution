@@ -277,6 +277,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -415,6 +416,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/2058-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
