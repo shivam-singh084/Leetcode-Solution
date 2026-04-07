@@ -421,6 +421,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/2058-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/shivam-singh084/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2751-robot-collisions) |
@@ -498,6 +499,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
 | [1622-fancy-sequence](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/shivam-singh084/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
