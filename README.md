@@ -124,6 +124,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivam-singh084/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Prefix Sum
 |  |
@@ -191,6 +192,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shivam-singh084/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivam-singh084/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -426,6 +428,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
 |  |
 | ------- |
