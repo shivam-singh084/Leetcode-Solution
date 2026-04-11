@@ -3,18 +3,19 @@ public:
     struct TrieNode{
         bool isEndofword;
         TrieNode* children[26];
-    };
-    TrieNode* getNode(){
-        TrieNode* newNode = new TrieNode();
-        newNode -> isEndofword = false;
-        for(int i = 0; i < 26; i++){
-            newNode -> children[i] = NULL;
+
+        TrieNode(){
+            isEndofword = false;
+            for(int i = 0; i < 26; i++){
+                children[i] = NULL;
+            }
         }
-        return newNode;
-    }
+    };
+
     TrieNode* root;
+
     Trie() {
-        root = getNode();
+        root = new TrieNode();
     }
     
     void insert(string word) {
@@ -24,7 +25,7 @@ public:
             int idx = ch - 'a';
 
             if(curr -> children[idx] == NULL){
-                curr -> children[idx] = getNode();
+                curr -> children[idx] = new TrieNode();
             }
             curr = curr -> children[idx];
         }
