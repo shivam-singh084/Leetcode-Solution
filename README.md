@@ -122,6 +122,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -248,6 +249,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-singh084/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3488-closest-equal-element-queries](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -762,6 +764,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/shivam-singh084/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Indexed Tree
