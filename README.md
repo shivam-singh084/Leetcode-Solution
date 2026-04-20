@@ -108,6 +108,7 @@
 | [1929-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2058-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/2058-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2102-find-the-middle-index-in-array](https://github.com/shivam-singh084/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -795,6 +796,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
