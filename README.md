@@ -117,6 +117,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-singh084/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [2643-row-with-maximum-ones](https://github.com/shivam-singh084/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2751-robot-collisions](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2906-construct-product-matrix) |
@@ -147,6 +148,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2102-find-the-middle-index-in-array](https://github.com/shivam-singh084/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2615-sum-of-distances](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -252,6 +254,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shivam-singh084/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-singh084/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-sum-of-distances](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3488-closest-equal-element-queries](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
