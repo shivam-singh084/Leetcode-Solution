@@ -311,6 +311,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivam-singh084/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -364,6 +365,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shivam-singh084/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shivam-singh084/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2833-furthest-point-from-origin) |
 ## Two Pointers
 |  |
 | ------- |
