@@ -93,6 +93,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivam-singh084/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/shivam-singh084/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1580-shuffle-the-array](https://github.com/shivam-singh084/leetcode/tree/master/1580-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -422,6 +423,7 @@
 | [0661-image-smoother](https://github.com/shivam-singh084/leetcode/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0898-transpose-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/shivam-singh084/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -719,6 +721,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
@@ -852,6 +855,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivam-singh084/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -875,6 +879,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Game Theory
 |  |
 | ------- |
