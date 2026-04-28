@@ -16,12 +16,11 @@ public:
         int target = vec[l/2];
 
         int cnt = 0;
-        for(int &i : vec){
-            if(i % x != target % x){
-                return -1;
-            }else{
-                cnt += abs(target - i) / x;
-            }
+        for(int &val : vec){
+            int diff = abs(val - target);
+            if(diff % x != 0) return -1;
+
+            cnt += diff / x;
         }
         return cnt;
     }
