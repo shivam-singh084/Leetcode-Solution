@@ -110,6 +110,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/shivam-singh084/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2058-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2102-find-the-middle-index-in-array](https://github.com/shivam-singh084/leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -344,6 +345,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -433,6 +435,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/shivam-singh084/leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
 | [2643-row-with-maximum-ones](https://github.com/shivam-singh084/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2906-construct-product-matrix) |
@@ -594,6 +597,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/shivam-singh084/leetcode/tree/master/1922-count-good-numbers) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shivam-singh084/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
