@@ -14,28 +14,28 @@ public:
         if(head == NULL || head -> next == NULL) return head;
         int cnt = 0;
         ListNode* temp = head;
-        while(temp != NULL){
+        while(temp != NULL) {
             cnt++;
             temp = temp -> next;
         }
 
         k = k % cnt;
         if(k == 0) return head;
-        cnt = cnt - k;
 
-        ListNode* curr = head;
-        ListNode* prev = NULL;
-        while(cnt--){
-            prev = curr;
-            curr = curr -> next;
+        ListNode* fast = head;
+        for(int i = 0; i < k; i++){
+            fast = fast -> next;
         }
-        prev -> next = NULL;
 
-        ListNode* tail = curr;
-        while(tail -> next != NULL) tail = tail -> next;
+        ListNode* slow = head;
+        while(fast -> next){
+            fast = fast -> next;
+            slow = slow -> next;
+        }
+        ListNode* newHead = slow -> next;
+        slow -> next = NULL;
+        fast -> next = head;
 
-        tail -> next = head;
-        return curr;
-
+        return newHead;
     }
 };
