@@ -24,6 +24,7 @@
 | [0051-n-queens](https://github.com/shivam-singh084/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivam-singh084/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shivam-singh084/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
@@ -172,6 +173,7 @@
 | [0032-longest-valid-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivam-singh084/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shivam-singh084/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
@@ -821,6 +823,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/shivam-singh084/leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/shivam-singh084/leetcode/tree/master/0410-split-array-largest-sum) |
