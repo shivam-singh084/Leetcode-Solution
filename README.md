@@ -136,6 +136,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
@@ -627,6 +628,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shivam-singh084/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
