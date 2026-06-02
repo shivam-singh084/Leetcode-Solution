@@ -1,14 +1,10 @@
 class Solution {
 public:
     int digitFrequencyScore(int n) {
-        string s = to_string(n);
-        unordered_map<int, int> mp;
-        for(char ch : s){
-            mp[ch-'0']++;
-        }
-        int score = 0; 
-        for(auto it : mp){
-            score += it.first * it.second;
+        int score = 0;
+        while(n > 0){
+            score += n % 10;
+            n = n / 10;
         }
         return score;
     }
