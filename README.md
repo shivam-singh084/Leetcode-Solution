@@ -105,6 +105,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/shivam-singh084/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivam-singh084/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -159,6 +160,7 @@
 | [0410-split-array-largest-sum](https://github.com/shivam-singh084/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shivam-singh084/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shivam-singh084/leetcode/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2102-find-the-middle-index-in-array](https://github.com/shivam-singh084/leetcode/tree/master/2102-find-the-middle-index-in-array) |
