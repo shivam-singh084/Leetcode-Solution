@@ -84,6 +84,7 @@
 | [0566-reshape-the-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/shivam-singh084/leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/shivam-singh084/leetcode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/shivam-singh084/leetcode/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/shivam-singh084/leetcode/tree/master/0724-find-pivot-index) |
@@ -615,6 +616,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shivam-singh084/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivam-singh084/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-singh084/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
