@@ -675,6 +675,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/shivam-singh084/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
@@ -988,6 +989,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
 |  |
 | ------- |
