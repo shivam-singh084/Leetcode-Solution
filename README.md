@@ -131,6 +131,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-singh084/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2463-minimum-total-distance-traveled) |
@@ -288,6 +289,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shivam-singh084/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-singh084/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2784-check-if-array-is-good) |
