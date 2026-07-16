@@ -7,7 +7,7 @@ public:
 
         for(int j = 0; j < n; j++){
             if(nums[j] == 0) zero++;
-            while(zero > 1){
+            if(zero > 1){
                 if(nums[i] == 0){
                     zero--;
                 }
