@@ -104,6 +104,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/shivam-singh084/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivam-singh084/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivam-singh084/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/shivam-singh084/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -220,6 +221,7 @@
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shivam-singh084/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -626,6 +628,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam-singh084/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
