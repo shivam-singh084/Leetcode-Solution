@@ -126,6 +126,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/shivam-singh084/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2058-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/2058-concatenation-of-array) |
@@ -689,6 +690,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/shivam-singh084/leetcode/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -1010,6 +1012,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
 |  |
