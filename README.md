@@ -425,6 +425,7 @@
 | [0239-sliding-window-maximum](https://github.com/shivam-singh084/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -629,6 +630,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/shivam-singh084/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 | [1622-fancy-sequence](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/shivam-singh084/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Monotonic Stack
@@ -1027,4 +1029,8 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
