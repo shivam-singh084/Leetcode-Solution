@@ -347,6 +347,7 @@
 | [0443-string-compression](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/shivam-singh084/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/shivam-singh084/leetcode/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/shivam-singh084/leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivam-singh084/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -424,6 +425,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/shivam-singh084/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/shivam-singh084/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivam-singh084/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 ## Counting
@@ -919,6 +921,7 @@
 | [0409-longest-palindrome](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/shivam-singh084/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivam-singh084/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
