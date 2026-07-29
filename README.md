@@ -815,6 +815,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -846,6 +847,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0872-leaf-similar-trees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
@@ -885,6 +887,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -1019,6 +1022,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Game Theory
 |  |
