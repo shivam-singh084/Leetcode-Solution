@@ -228,6 +228,7 @@
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shivam-singh084/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -816,6 +817,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -848,6 +850,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/shivam-singh084/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -890,6 +893,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
