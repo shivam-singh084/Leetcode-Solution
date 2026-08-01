@@ -229,6 +229,7 @@
 | [0647-palindromic-substrings](https://github.com/shivam-singh084/leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -709,6 +710,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1622-fancy-sequence) |
@@ -1042,6 +1044,7 @@
 | [0292-nim-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1025-divisor-game) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1074,4 +1077,5 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
