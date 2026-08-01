@@ -702,6 +702,7 @@
 | [0204-count-primes](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0292-nim-game) |
 | [0396-rotate-function](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
@@ -1038,6 +1039,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
 ## Graph Theory
@@ -1068,4 +1070,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
