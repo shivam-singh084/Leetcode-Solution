@@ -75,6 +75,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivam-singh084/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shivam-singh084/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/shivam-singh084/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/shivam-singh084/leetcode/tree/master/0498-diagonal-traverse) |
@@ -222,6 +223,7 @@
 | [0396-rotate-function](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/shivam-singh084/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/shivam-singh084/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/shivam-singh084/leetcode/tree/master/0647-palindromic-substrings) |
@@ -605,6 +607,7 @@
 | [0206-reverse-linked-list](https://github.com/shivam-singh084/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shivam-singh084/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -700,6 +703,7 @@
 | [0231-power-of-two](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivam-singh084/leetcode/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
@@ -1034,6 +1038,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
 ## Graph Theory
 |  |
