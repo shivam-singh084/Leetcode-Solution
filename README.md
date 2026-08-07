@@ -91,6 +91,7 @@
 | [0661-image-smoother](https://github.com/shivam-singh084/leetcode/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/shivam-singh084/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
 | [0874-walking-robot-simulation](https://github.com/shivam-singh084/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/shivam-singh084/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -635,6 +636,7 @@
 | [0234-palindrome-linked-list](https://github.com/shivam-singh084/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shivam-singh084/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivam-singh084/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shivam-singh084/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivam-singh084/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -661,6 +663,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivam-singh084/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shivam-singh084/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
