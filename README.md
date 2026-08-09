@@ -99,6 +99,7 @@
 | [0898-transpose-matrix](https://github.com/shivam-singh084/leetcode/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/shivam-singh084/leetcode/tree/master/0978-valid-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/shivam-singh084/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1260-shift-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
@@ -185,6 +186,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shivam-singh084/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shivam-singh084/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -233,6 +235,7 @@
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
@@ -724,6 +727,7 @@
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1622-fancy-sequence) |
@@ -1073,6 +1077,7 @@
 | [0486-predict-the-winner](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
@@ -1112,9 +1117,11 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
