@@ -240,6 +240,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shivam-singh084/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -730,6 +731,7 @@
 | [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -1079,6 +1081,7 @@
 | [1025-divisor-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1119,9 +1122,19 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
