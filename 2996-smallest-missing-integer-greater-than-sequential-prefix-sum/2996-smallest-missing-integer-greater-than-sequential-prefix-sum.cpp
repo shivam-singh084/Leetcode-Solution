@@ -2,10 +2,6 @@ class Solution {
 public:
     int missingInteger(vector<int>& nums) {
         int n = nums.size();
-        unordered_map<int, int> mp;
-        for(int i = 0; i < n; i++){
-            mp[nums[i]]++;
-        }
         
         int sum = nums[0];
         for(int j = 1; j < n; j++){
@@ -14,8 +10,11 @@ public:
             }
             else break;
         }
-        while(mp.find(sum) != mp.end()){
-            sum++;
+        sort(nums.begin(), nums.end());
+        for(int i = 0; i < n; i++){
+            if(sum == nums[i]){
+                sum++;
+            }
         }
         return sum;
     }
