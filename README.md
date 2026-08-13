@@ -143,6 +143,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2352-equal-row-and-column-pairs) |
@@ -390,6 +391,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2573-find-the-string-with-lcp) |
@@ -807,6 +809,7 @@
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/shivam-singh084/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Merge Sort
 |  |
 | ------- |
@@ -976,6 +979,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/shivam-singh084/leetcode/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
