@@ -175,6 +175,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -801,6 +802,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivam-singh084/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bucket Sort
 |  |
 | ------- |
