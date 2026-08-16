@@ -135,6 +135,7 @@
 | [1929-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2058-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -471,6 +472,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shivam-singh084/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shivam-singh084/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -749,6 +751,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/shivam-singh084/leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -1004,6 +1007,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivam-singh084/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/shivam-singh084/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1097,6 +1101,7 @@
 | [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1138,16 +1143,19 @@
 | [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
