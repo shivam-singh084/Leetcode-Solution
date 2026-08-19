@@ -105,6 +105,7 @@
 | [1260-shift-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivam-singh084/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam-singh084/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -317,6 +318,7 @@
 | [0874-walking-robot-simulation](https://github.com/shivam-singh084/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1207-unique-number-of-occurrences](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam-singh084/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivam-singh084/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -805,6 +807,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/shivam-singh084/leetcode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivam-singh084/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -1004,6 +1007,7 @@
 | [0605-can-place-flowers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivam-singh084/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1386-cinema-seat-allocation](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1727-largest-submatrix-with-rearrangements) |
