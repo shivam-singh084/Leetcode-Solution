@@ -164,6 +164,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -763,6 +764,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivam-singh084/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shivam-singh084/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -814,6 +816,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
 | [1386-cinema-seat-allocation](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivam-singh084/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bucket Sort
@@ -984,6 +987,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/shivam-singh084/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -1038,6 +1042,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shivam-singh084/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
 |  |
@@ -1127,6 +1132,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
