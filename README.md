@@ -92,6 +92,7 @@
 | [0724-find-pivot-index](https://github.com/shivam-singh084/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-design-circular-queue](https://github.com/shivam-singh084/leetcode/tree/master/0860-design-circular-queue) |
 | [0874-walking-robot-simulation](https://github.com/shivam-singh084/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/shivam-singh084/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -244,6 +245,7 @@
 | [0509-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/shivam-singh084/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/shivam-singh084/leetcode/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1025-divisor-game) |
