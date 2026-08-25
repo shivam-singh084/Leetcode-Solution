@@ -5,11 +5,11 @@ public:
         for(int i = 0; i < nums.size(); i++){
             mp[nums[i]]++;
         }
-        int i = 1;
-        while(mp.find(k*i) != mp.end()){
-            i++;
+        int n = k;
+        while(mp[n] != 0){
+            n = n+k;
         }
-        return k*i;
+        return n;
         
     }
 };
