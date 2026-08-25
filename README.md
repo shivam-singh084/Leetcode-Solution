@@ -246,6 +246,7 @@
 | [0518-coin-change-ii](https://github.com/shivam-singh084/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/shivam-singh084/leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/shivam-singh084/leetcode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1025-divisor-game) |
