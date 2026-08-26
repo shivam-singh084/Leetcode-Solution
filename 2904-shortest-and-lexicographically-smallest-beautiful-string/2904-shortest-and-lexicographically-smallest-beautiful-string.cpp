@@ -5,22 +5,26 @@ public:
         int i = 0;
         int cnt = 0;
         int st = 0;
-        string res = "";
+        int len = INT_MAX;
 
-        for(int j = 0; j < n; j++){
-            if(s[j] == '1') cnt++;
+        for(int j = 0; j < n; j++) {
+            if(s[j] == '1')
+                cnt++;
 
-            while(cnt == k){
-                string temp = s.substr(i, j-i+1);
-                if(res.empty() || res.length() > j-i+1 || (temp.length() == res.length() && temp < res)){
-                    res = temp;
+            while(cnt == k) {
+
+                if(j - i + 1 < len || 
+                   (j - i + 1 == len && s.substr(i, len) < s.substr(st, len))) {
+                    len = j - i + 1;
+                    st = i;
                 }
-    
                 if(s[i] == '1') cnt--;
                 i++;
             }
         }
+        if(len == INT_MAX)
+            return "";
 
-        return res;
+        return s.substr(st, len);
     }
 };
