@@ -428,6 +428,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3614-process-string-with-special-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -540,6 +541,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -1072,6 +1074,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
