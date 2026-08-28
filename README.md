@@ -349,6 +349,7 @@
 | [3488-closest-equal-element-queries](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -426,6 +427,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3614-process-string-with-special-operations-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -491,6 +493,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shivam-singh084/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2833-furthest-point-from-origin) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -1048,6 +1051,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Quickselect
 |  |
 | ------- |
@@ -1067,6 +1071,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
