@@ -142,6 +142,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2058-concatenation-of-array](https://github.com/shivam-singh084/leetcode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/shivam-singh084/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2126-destroying-asteroids](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -1046,6 +1047,7 @@
 | [1927-sum-game](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/shivam-singh084/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
