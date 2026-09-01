@@ -179,6 +179,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3634-minimum-removals-to-balance-array](https://github.com/shivam-singh084/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -350,6 +351,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3731-find-missing-elements) |
@@ -592,6 +594,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
@@ -841,6 +844,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivam-singh084/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bucket Sort
 |  |
@@ -1136,6 +1140,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3310-remove-methods-from-project](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Game Theory
 |  |
 | ------- |
