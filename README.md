@@ -194,6 +194,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -802,6 +803,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Memoization
 |  |
 | ------- |
