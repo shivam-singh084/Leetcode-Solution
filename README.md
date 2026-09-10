@@ -923,6 +923,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -960,6 +961,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -1003,6 +1005,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivam-singh084/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
 | ------- |
