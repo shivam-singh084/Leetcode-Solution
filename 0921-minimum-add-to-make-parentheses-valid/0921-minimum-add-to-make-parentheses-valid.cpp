@@ -13,9 +13,7 @@ public:
                 
             }
         }
-        if(st.empty()){
-            return 0;
-        }
+        
         return st.size();
     }
 };
