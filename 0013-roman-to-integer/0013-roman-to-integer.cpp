@@ -6,25 +6,25 @@ public:
         for(int i = 0; i < s.length(); i++){
 
             if(s[i] == 'I'){
-                if(i + 1 < s.length() && s[i+1] == 'V') {
+                if(s[i+1] == 'V') {
                     ans += 4;
                     i++;
                 }
-                else if(i + 1 < s.length() && s[i+1] == 'X') {
+                else if(s[i+1] == 'X') {
                     ans += 9;
                     i++;
                 }
                 else ans += 1;
             }
-            
+
             else if(s[i] == 'V') ans += 5;
 
             else if(s[i] == 'X'){
-                if(i + 1 < s.length() && s[i+1] == 'L') {
+                if(s[i+1] == 'L') {
                     ans += 40;
                     i++;
                 }
-                else if(i + 1 < s.length() && s[i+1] == 'C') {
+                else if(s[i+1] == 'C') {
                     ans += 90;
                     i++;
                 }
@@ -34,11 +34,11 @@ public:
             else if(s[i] == 'L') ans += 50;
 
             else if(s[i] == 'C'){
-                if(i + 1 < s.length() && s[i+1] == 'D') {
+                if(s[i+1] == 'D') {
                     ans += 400;
                     i++;
                 }
-                else if(i + 1 < s.length() && s[i+1] == 'M') {
+                else if(s[i+1] == 'M') {
                     ans += 900;
                     i++;
                 }
