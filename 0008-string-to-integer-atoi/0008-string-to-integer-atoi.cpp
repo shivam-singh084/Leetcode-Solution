@@ -20,7 +20,7 @@ public:
             if(num > INT_MAX && sign == 1){
                 return INT_MAX;
             }
-            else if(num > 2147483648LL && sign == -1) return INT_MIN;
+            else if(num > INT_MAX && sign == -1) return INT_MIN;
 
             i++;
         }
