@@ -6,11 +6,7 @@ public:
         int cnt = 0;
 
         for(int i = 0; i < n; i++){
-            int j = nums[i];
-            while(j != maxi){
-                cnt++;
-                j = j+1;
-            }
+            cnt += maxi - nums[i];
         }
         return cnt;
     }
