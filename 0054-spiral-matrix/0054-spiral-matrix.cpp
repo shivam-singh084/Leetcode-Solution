@@ -1,44 +1,40 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        vector<int> result;
+        int m = matrix.size();
+        int n = matrix[0].size();
 
-        if (matrix.empty()) return result;
+        int top = 0;
+        int down = m-1;
+        int left = 0;
+        int right = n-1;
 
-        int n = matrix.size();       // rows
-        int m = matrix[0].size();    // columns
+        vector<int> ans;
 
-        int srow = 0, scol = 0;
-        int erow = n - 1, ecol = m - 1;
-
-        while (srow <= erow && scol <= ecol) {
-            // top row
-            for (int j = scol; j <= ecol; ++j)
-                result.push_back(matrix[srow][j]);
-
-            // right column
-            for (int i = srow + 1; i <= erow; ++i)
-                result.push_back(matrix[i][ecol]);
-
-            // bottom row
-            if (srow < erow) {
-                for (int j = ecol - 1; j >= scol; --j)
-                    result.push_back(matrix[erow][j]);
-            }
-
-            // left column
-            if (scol < ecol) {
-                for (int i = erow - 1; i > srow; --i)
-                    result.push_back(matrix[i][scol]);
-            }
-
-            // move to inner layer
-            srow++;
-            scol++;
-            erow--;
-            ecol--;
+        while(top <= down && left <= right){
+                for(int j = left; j <= right; j++){
+                    ans.push_back(matrix[top][j]);
+                }
+                top++;
+            
+                for(int i = top; i <= down; i++){
+                    ans.push_back(matrix[i][right]);
+                }
+                right--;
+            if(top <= down)
+                for(int j = right; j >= left; j--){
+                    ans.push_back(matrix[down][j]);
+                }
+                down--;
+    
+            if(left <= right)
+                for(int i = down; i >= top; i--){
+                    ans.push_back(matrix[i][left]);
+                }
+                left++;
+    
+            
         }
-
-        return result;
+        return ans;
     }
 };
