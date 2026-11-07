@@ -4,19 +4,18 @@ public:
         int n = nums.size();
         if(nums.empty()) return 0;
         sort(nums.begin(), nums.end());
-
-        int curr = 1;
-        int ans = 1;
+         
+        int cnt = 1;
+        int ans = 0;
         for(int i = 1; i < n; i++){
-            if(nums[i] == nums[i-1]+1){
-                curr++;
+            if((nums[i] - nums[i-1]) == 1){
+                cnt++;
             }
-            else if(nums[i] == nums[i-1]){
-                continue;
-            }else{
-                curr = 1;
+            else if((nums[i] - nums[i-1]) == 0) continue;
+            else{
+                cnt = 1;
             }
-            ans = max(ans, curr);
+            ans = max(ans, cnt);
         }
         return ans;
     }
